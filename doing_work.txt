@@ -1,2 +1,2 @@
 "some work" 
-"VB rocks" 
+".Net rocks"
